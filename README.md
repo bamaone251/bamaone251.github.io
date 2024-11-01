@@ -517,7 +517,7 @@ Y8888P'  `Y88P'  Y8888D'    YP
           id="topBarLeft"
           class="child"
           style="text-align: left; padding-left: 7px; color: blanchedalmond"
-        >&nbsp;</div>
+        >;</div>
         <div
           id="topBarCenter"
           class="child"
