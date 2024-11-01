@@ -9,12 +9,12 @@ const aURL = [
   ["ff9100", "Refresh", "#", "1"],
 
   ["2196F3", "WINDY", "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=%C2%B0F&metricWind=default&zoom=5&overlay=radar&product=radar&level=surface&lat=31.062&lon=-90.956", "1"],
-   ["2196F3", "DX CLUSTER", "https://globe.adsbexchange.com", "1", "R"],
+   ["2196F3", "PLANES", "https://globe.adsbexchange.com", "1", "R"],
   [
     "2196F3",
     "RADAR",
     "https://www.youtube.com/live/O9mYwRlucZY?si=GlU95eSlWX82YhNw",
-    "1",
+    "1", "l"
   ],
   [
     "2196F3",
