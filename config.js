@@ -14,7 +14,7 @@ const aURL = [
     "2196F3",
     "RADAR",
     "https://www.youtube.com/live/O9mYwRlucZY?si=GlU95eSlWX82YhNw",
-    "1", "l"
+    "1",
   ],
   [
     "2196F3",
