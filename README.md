@@ -247,7 +247,7 @@ db   8D    88       88    88booo. 88.     db   8D
         float: inline-start;
         right: calc(-0.2vw - 10px);
         transition: 0.3s;
-        padding-left: 15px;
+        padding-left: 05px;
         padding-right: 15px;
         padding-top: 12px;
         padding-bottom: 8px;
