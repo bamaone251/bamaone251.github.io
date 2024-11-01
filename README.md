@@ -48,7 +48,7 @@ db   8D    88       88    88booo. 88.     db   8D
         height: 100%;
         position: fixed;
         width: 100%;
-        bottom: 0px;
+        bottom: 2px;
         z-index: -2;
       }
 
