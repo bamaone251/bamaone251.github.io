@@ -59,7 +59,7 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-  ["", "https://thurlowpa.com/FullScreenRadarStuartZoom7Statewide.html"],
+  ["", "https://thurlowpa.com/FullScreenRadarStuartZoom7Statewide.html",],
   [
     "WARNINGS",
     "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
