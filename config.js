@@ -37,7 +37,7 @@ const aURL = [
   [
     "2196F3",
     "WEATHER",
-    "file:///X:/MAPS/WXTOOLS.html",
+    "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=%C2%B0F&metricWind=default&zoom=5&overlay=radar&product=radar&level=surface&lat=31.062&lon=-90.956",
     "1",
     "R",
   ],
