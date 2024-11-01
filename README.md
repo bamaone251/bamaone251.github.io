@@ -109,7 +109,7 @@ db   8D    88       88    88booo. 88.     db   8D
         position: relative;
         display: grid;
         border: 1px solid hsl(210deg 8% 50%);
-        border-radius: 5px;
+        border-radius: 1px;
         background: hsl(210deg 15% 20%);
         color: white;
         padding: 0.5vh;
