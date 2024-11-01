@@ -9,19 +9,20 @@ const aURL = [
   ["ff9100", "Refresh", "#", "1"],
 
   ["2196F3", "WINDY", "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=%C2%B0F&metricWind=default&zoom=5&overlay=radar&product=radar&level=surface&lat=31.062&lon=-90.956", "1"],
-  [
-    "2196F3",
-    "PLANES",
-    "https://globe.adsbexchange.com/",
-    "1",
-  ],
+   ["2196F3", "DX CLUSTER", "https://www.nnvl.noaa.gov/NESDIS/site/videos/GOES/USlamWV-sector.mp4?_ga=2.214018519.1525759656.1717948358-643504581.1714231811", "1", "R"],
   [
     "2196F3",
     "RADAR",
     "https://www.youtube.com/live/O9mYwRlucZY?si=GlU95eSlWX82YhNw",
     "1",
   ],
-  ["2196F3", "DX CLUSTER", "https://www.nnvl.noaa.gov/NESDIS/site/videos/GOES/USlamWV-sector.mp4?_ga=2.214018519.1525759656.1717948358-643504581.1714231811", "1", "R"],
+  [
+    "2196F3",
+    "PLANES",
+    "https://globe.adsbexchange.com/",
+    "1",
+  ],
+ 
   [
     "2196F3",
     "LIGHTNING",
