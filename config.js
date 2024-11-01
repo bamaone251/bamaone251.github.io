@@ -63,15 +63,13 @@ const aIMG = [
     "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
   ],
 
-  [
-    "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
-  ],
 
+  
+  ["24HR FORECAST", "https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif"],
 
   [
-    "THE SUN",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/SUVI/FD/He303/latest.jpg",
+    "72HR FORECAST",
+    "https://www.wpc.ncep.noaa.gov/noaa/noaad3.gif",
   ],
 
   [
@@ -108,13 +106,17 @@ const aIMG = [
 
 
 
-  ["24HR FORECAST", "https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif"],
 
   [
-    "72HR FORECAST",
-    "https://www.wpc.ncep.noaa.gov/noaa/noaad3.gif",
+    "LIGHTNING",
+    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
   ],
-
+  
+  [
+    "THE SUN",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/SUVI/FD/He303/latest.jpg",
+  ],
+  
   [
     "ISS & RS-44 POSITION",
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
