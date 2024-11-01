@@ -123,7 +123,7 @@ db   8D    88       88    88booo. 88.     db   8D
         grid-template-columns: repeat(4, 1fr);
         grid-gap: 0px;
         border: 0px none;
-        margin-bottom: 0px;
+        margin-bottom: 3px;
         overflow: hidden;
         position: relative;
         width: 100%;
