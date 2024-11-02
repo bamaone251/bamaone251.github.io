@@ -13,7 +13,7 @@ const aURL = [
   [
     "2196F3",
     "RADAR",
-    "https://www.youtube.com/live/O9mYwRlucZY?si=GlU95eSlWX82YhNw",
+    "https://thurlowpa.com/FullScreenRadarStuartZoom7Statewide.html",
     "1",
   ],
 
