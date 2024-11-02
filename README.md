@@ -48,7 +48,7 @@ db   8D    88       88    88booo. 88.     db   8D
         height: 100%;
         position: fixed;
         width: 100%;
-        bottom: 2px;
+        bottom: 0px;
         z-index: -2;
       }
 
@@ -109,7 +109,7 @@ db   8D    88       88    88booo. 88.     db   8D
         position: relative;
         display: grid;
         border: 1px solid hsl(210deg 8% 50%);
-        border-radius: 1px;
+        border-radius: 5px;
         background: hsl(210deg 15% 20%);
         color: white;
         padding: 0.5vh;
@@ -123,7 +123,7 @@ db   8D    88       88    88booo. 88.     db   8D
         grid-template-columns: repeat(4, 1fr);
         grid-gap: 0px;
         border: 0px none;
-        margin-bottom: 3px;
+        margin-bottom: 0px;
         overflow: hidden;
         position: relative;
         width: 100%;
@@ -247,7 +247,7 @@ db   8D    88       88    88booo. 88.     db   8D
         float: inline-start;
         right: calc(-0.2vw - 10px);
         transition: 0.3s;
-        padding-left: 05px;
+        padding-left: 15px;
         padding-right: 15px;
         padding-top: 12px;
         padding-bottom: 8px;
@@ -509,7 +509,6 @@ Y8888P'  `Y88P'  Y8888D'    YP
     <div id="myMenuR" class="menuR">
       <!-- Right Menu container -->
     </div>
-
 
     <div id="defaultFrame" class="default-frame">
       <div class="top-bar">
