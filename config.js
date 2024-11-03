@@ -85,7 +85,7 @@ const aIMG = [
 
   [
     "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/AirMass/GOES16-SMV-AirMass-600x600.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/cam/13/GOES16-CAM-13-1000x1000.gif",
   ],
 
 
