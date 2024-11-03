@@ -20,8 +20,8 @@ const aURL = [
   
   [
     "2196F3",
-    "PLANES",
-    "https://globe.adsbexchange.com",
+    "CAMS",
+    "https://bamaone251.github.io/LOCALWX/",
     "1",
   ],
  
