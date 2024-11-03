@@ -8,7 +8,7 @@ const aURL = [
   ["add10d", "BACK", "#", "1", "R"],
   ["ff9100", "Refresh", "#", "1"],
 
-  ["2196F3", "WINDY", "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=%C2%B0F&metricWind=default&zoom=5&overlay=radar&product=radar&level=surface&lat=31.062&lon=-90.956", "1"],
+  ["2196F3", "WINDY", "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=%C2%B0F&metricWind=default&zoom=5&overlay=radar&product=radar&level=surface&lat=30.532&lon=-87.5452", "7"],
    ["2196F3", "PLANES", "https://globe.adsbexchange.com", "1", "R"],
   [
     "2196F3",
