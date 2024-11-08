@@ -67,7 +67,7 @@ const aIMG = [
 
 
   
-  ["24HR FORECAST", "https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif"],
+  ["24HR FORECAST", "https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif",],
 
   [
     "72HR FORECAST",
