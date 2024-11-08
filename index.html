@@ -120,7 +120,7 @@ db   8D    88       88    88booo. 88.     db   8D
       /* Style for the dashboard container */
       .dashboard {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(4, 1fr);
         grid-gap: 0px;
         border: 0px none;
         margin-bottom: 0px;
@@ -135,8 +135,8 @@ db   8D    88       88    88booo. 88.     db   8D
         float: inline-start;
         margin-right: 0px;
         border: 0px;
-        width: 32.9vw;
-        height: 47vh;
+        width: 24.9vw;
+        height: 31vh;
         overflow: hidden;
         display: flex;
         justify-content: center; /* Horizontal centering */
@@ -193,15 +193,6 @@ db   8D    88       88    88booo. 88.     db   8D
         transition: 0.3s;
       }
 
-      .container3 {
-    display: grid;
-    grid-template-columns: repeat(3, 600px);
-    grid-gap: 10px;
-    width: 600px;
-    height: 300px;
-    align-items: top;
-}
-
       /* Style for the right menu options */
       .menuR {
         display: grid;
@@ -256,11 +247,11 @@ db   8D    88       88    88booo. 88.     db   8D
         float: inline-start;
         right: calc(-0.2vw - 10px);
         transition: 0.3s;
-        padding-left: 5px;
+        padding-left: 15px;
         padding-right: 15px;
         padding-top: 12px;
         padding-bottom: 8px;
-        width: 4%;
+        width: 7vw;
         text-decoration: none;
         font-family: "Bebas Neue", sans-serif;
         font-size: 1.2vw;
@@ -275,7 +266,7 @@ db   8D    88       88    88booo. 88.     db   8D
 
       #mySidenavR a:hover {
         right: 0;
-        width: 10 vw;
+        width: 7vw;
       }
     </style>
   </head>
@@ -460,6 +451,30 @@ parentDiv.appendChild(newDiv);
         newDiv.appendChild(newTtl);
       });
 
+
+      // Get the parent div for Dashboard container
+      var parentDiv = document.getElementById("dash");
+      // Append the new div to the parent div
+      aIMG.forEach(function (innerArray, index) {
+        // Create a new div element
+        var newDiv = document.createElement("div");
+        // Set some properties for the new div
+        newDiv.className = "image-container";
+        // Create a new img element
+        var newImg = document.createElement("img");
+        newImg.id = `Image${index}`;
+        newImg.src = innerArray[1];
+        newImg.oncontextmenu = rotate;
+        newImg.ondblclick = larger;
+        parentDiv.appendChild(newDiv);
+        newDiv.appendChild(newImg);
+        // Create a new div element for img title
+        var newTtl = document.createElement("div");
+        newTtl.className = "image-title";
+        newTtl.innerHTML = innerArray[0];
+        newDiv.appendChild(newTtl);
+      });
+
       // assign wheelzoom functionality to all 12 images
       wheelzoom(document.querySelectorAll("img"));
 
@@ -560,9 +575,6 @@ Y8888P'  `Y88P'  Y8888D'    YP
       <div id="dash" class="dashboard">
         <!-- Images container -->
       </div>
-      
-     
-     </div>
     </div>
   </body>
 </html>
