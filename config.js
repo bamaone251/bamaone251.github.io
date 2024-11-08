@@ -36,7 +36,7 @@ const aURL = [
   [
     "2196F3",
     "WEATHER",
-    "https://bamaone251.github.io/WX/",
+    "https://spaghettimodels.com/",
     "1",
     "R",
   ],
@@ -56,100 +56,87 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-    [
+  [
     "",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/GOES16-CONUS-GEOCOLOR-625x375.gif",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/Sandwich/GOES16-CONUS-Sandwich-625x375.gif",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/DayNightCloudMicroCombo/GOES16-CONUS-DayNightCloudMicroCombo-625x375.gif",
   ],
-  [
-  "",
-  "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/smv/EXTENT3/GOES16-SMV-EXTENT3-600x600.gif",
-],
 
-
-[
-  "",
-  "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/GM/Sandwich/GOES16-GM-Sandwich-1000x1000.gif", 
-  "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/DayNightCloudMicroCombo/",
-  "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/GEOCOLOR/GOES16-GM-GEOCOLOR-1000x1000.gif",
-  "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/13/GOES16-GM-13-1000x1000.gif",
-],
-
-  [
-    "",
-    "https://www.youtube.com/embed/N5wWOVOTHmQ", "https://www.youtube.com/embed/N5wWOVOTHmQ",
-    ],
   
-    
+
 
   [
-    "",
-    "https://www.ssd.noaa.gov/PS/TROP/floaters/18L/imagery/rb-animated.gif",
-      ],
-
-  [
-    "",
-    "https://radar.weather.gov/ridge/standard/SOUTHMISSVLY_loop.gif",
+    "WARNINGS",
     "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
-    "http://wxmaps.org/pix/avnmr5.00hr.png",
-  ],
-  
-
-  [
-    "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/CONUS/EXTENT3/GOES16-CONUS-EXTENT3-625x375.gif",
   ],
 
   [
-  "",
-  "https://radar.weather.gov/ridge/standard/CONUS_loop.gif",
+    "LIGHTNING",
+    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
   ],
-
 
 
   [
-    "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/AirMass/GOES16-SMV-AirMass-600x600.gif",
+    "THE SUN",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/SUVI/FD/He303/latest.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/SUVI/FD/Fe171/latest.jpg",
   ],
+
+ 
+
+  ["", "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/DayNightCloudMicroCombo/GOES16-CONUS-DayNightCloudMicroCombo-625x375.gif",],
 
 
   [
     "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/GM/Sandwich/GOES16-GM-Sandwich-1000x1000.gif", ".8",
+    "https://www.ssd.noaa.gov/PS/TROP/floaters/18L/imagery/rb_lalo-animated.gif",
+  ],
+
+
+  [
+    "",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/GM/Sandwich/GOES16-GM-Sandwich-1000x1000.gif", 
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/DayNightCloudMicroCombo/GOES16-GM-DayNightCloudMicroCombo-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/GEOCOLOR/GOES16-GM-GEOCOLOR-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/13/GOES16-GM-13-1000x1000.gif",
   ],
 
   [
     "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/smv/EXTENT3/GOES16-SMV-EXTENT3-600x600.gif",
+    "https://www.ssd.noaa.gov/PS/TROP/floaters/18L/imagery/wv-animated.gif",
+    "https://www.ssd.noaa.gov/PS/TROP/floaters/18L/imagery/rb-animated.gif",
+    "https://www.ssd.noaa.gov/PS/TROP/floaters/18L/imagery/ir-animated.gif",
+    "https://www.ssd.noaa.gov/PS/TROP/floaters/18L/imagery/swir-animated.gif",
   ],
 
 
   ["TROPICS", "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/taw/EXTENT3/GOES16-TAW-EXTENT3-900x540.gif"],
 
-[
-    "WARNINGS",
-    "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
-  ],
 
 
 
-  ["24HR FORECAST", "https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif",],
 
+
+
+  
   [
-    "72HR FORECAST",
+    "FORECAST", 
+    "https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif",
     "https://www.wpc.ncep.noaa.gov/noaa/noaad3.gif",
   ],
 
+  ["FAIRHOPE", "https://www.youtube.com/embed/N5wWOVOTHmQ"],
+
+
+  ["BEACH", "https://www.youtube.com/embed/pJqrjIuvGFE"],
+
+    
   [
     "ISS & RS-44 POSITION",
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
-  ],
-
-  [
-    "",
-    "https://www.tideschart.com/tide-charts/en/Meaher-State-Park-Mobile-Bay-Baldwin-County-Alabama-United-States-tide-chart-30030859-ft.png?",
+    
   ],
 
 ];
