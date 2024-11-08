@@ -409,6 +409,34 @@ The content refreshes automatically every 5 minutes.
         }
       });
 
+// Check if innerArray[1] contains a YouTube link
+if (innerArray[1].includes("youtube.com") || innerArray[1].includes("youtu.be")) {
+    // Create an iframe element for YouTube video
+    var newIframe = document.createElement("iframe");
+    newIframe.width = "100%"; // Set desired width
+    newIframe.height = "100%"; // Set desired height
+    newIframe.src = innerArray[1].replace("watch?v=", "embed/"); // Convert YouTube link to embed format
+    newIframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+    newIframe.allowFullscreen = true; // Allow fullscreen mode
+    newDiv.appendChild(newIframe);
+} else {
+    // Create a new img element if it's an image
+    var newImg = document.createElement("img");
+    newImg.id = `Image${index}`;
+    newImg.src = innerArray[1];
+    newImg.oncontextmenu = rotate;
+    newImg.ondblclick = larger;
+    newDiv.appendChild(newImg);
+}
+
+// Append the new div to the parent div
+parentDiv.appendChild(newDiv);
+        // Create a new div element for img title
+        var newTtl = document.createElement("div");
+        newTtl.className = "image-title";
+        newTtl.innerHTML = innerArray[0];
+        newDiv.appendChild(newTtl);
+      });
       // Get the parent div for Dashboard container
       var parentDiv = document.getElementById("dash");
       // Append the new div to the parent div
