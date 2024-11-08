@@ -117,6 +117,7 @@ const aIMG = [
   [
     "THE SUN",
     "https://cdn.star.nesdis.noaa.gov/GOES16/SUVI/FD/He303/latest.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/SUVI/FD/Fe171/latest.jpg",
   ],
   
   [
