@@ -36,7 +36,7 @@ const aURL = [
   [
     "2196F3",
     "WEATHER",
-    "https://weather.cod.edu/satrad/nexrad/?parms=MOB-N0B-0-24-100-usa-ww",
+    "https://bamaone251.github.io/WX/",
     "1",
     "R",
   ],
