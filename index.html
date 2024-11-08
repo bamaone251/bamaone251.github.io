@@ -48,7 +48,7 @@ db   8D    88       88    88booo. 88.     db   8D
         height: 100%;
         position: fixed;
         width: 100%;
-        bottom: 0px;
+        bottom: 2px;
         z-index: -2;
       }
 
@@ -109,7 +109,7 @@ db   8D    88       88    88booo. 88.     db   8D
         position: relative;
         display: grid;
         border: 1px solid hsl(210deg 8% 50%);
-        border-radius: 5px;
+        border-radius: 1px;
         background: hsl(210deg 15% 20%);
         color: white;
         padding: 0.5vh;
@@ -120,10 +120,10 @@ db   8D    88       88    88booo. 88.     db   8D
       /* Style for the dashboard container */
       .dashboard {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(4, 1fr);
         grid-gap: 0px;
         border: 0px none;
-        margin-bottom: 0px;
+        margin-bottom: 3px;
         overflow: hidden;
         position: relative;
         width: 100%;
@@ -135,8 +135,8 @@ db   8D    88       88    88booo. 88.     db   8D
         float: inline-start;
         margin-right: 0px;
         border: 0px;
-        width: 32.9vw;
-        height: 47vh;
+        width: 24.9vw;
+        height: 31vh;
         overflow: hidden;
         display: flex;
         justify-content: center; /* Horizontal centering */
@@ -193,15 +193,6 @@ db   8D    88       88    88booo. 88.     db   8D
         transition: 0.3s;
       }
 
-      .container3 {
-    display: grid;
-    grid-template-columns: repeat(3, 600px);
-    grid-gap: 10px;
-    width: 600px;
-    height: 300px;
-    align-items: top;
-}
-
       /* Style for the right menu options */
       .menuR {
         display: grid;
@@ -256,11 +247,11 @@ db   8D    88       88    88booo. 88.     db   8D
         float: inline-start;
         right: calc(-0.2vw - 10px);
         transition: 0.3s;
-        padding-left: 5px;
+        padding-left: 05px;
         padding-right: 15px;
         padding-top: 12px;
         padding-bottom: 8px;
-        width: 4%;
+        width: 7vw;
         text-decoration: none;
         font-family: "Bebas Neue", sans-serif;
         font-size: 1.2vw;
@@ -275,7 +266,7 @@ db   8D    88       88    88booo. 88.     db   8D
 
       #mySidenavR a:hover {
         right: 0;
-        width: 10 vw;
+        width: 7vw;
       }
     </style>
   </head>
@@ -425,34 +416,15 @@ The content refreshes automatically every 5 minutes.
         // Create a new div element
         var newDiv = document.createElement("div");
         // Set some properties for the new div
-newDiv.className = "image-container";
-
-
-
-
-
-// Check if innerArray[1] contains a YouTube link
-if (innerArray[1].includes("youtube.com") || innerArray[1].includes("youtu.be")) {
-    // Create an iframe element for YouTube video
-    var newIframe = document.createElement("iframe");
-    newIframe.width = "100%"; // Set desired width
-    newIframe.height = "100%"; // Set desired height
-    newIframe.src = innerArray[1].replace("watch?v=", "embed/"); // Convert YouTube link to embed format
-    newIframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
-    newIframe.allowFullscreen = true; // Allow fullscreen mode
-    newDiv.appendChild(newIframe);
-} else {
-    // Create a new img element if it's an image
-    var newImg = document.createElement("img");
-    newImg.id = `Image${index}`;
-    newImg.src = innerArray[1];
-    newImg.oncontextmenu = rotate;
-    newImg.ondblclick = larger;
-    newDiv.appendChild(newImg);
-}
-
-// Append the new div to the parent div
-parentDiv.appendChild(newDiv);
+        newDiv.className = "image-container";
+        // Create a new img element
+        var newImg = document.createElement("img");
+        newImg.id = `Image${index}`;
+        newImg.src = innerArray[1];
+        newImg.oncontextmenu = rotate;
+        newImg.ondblclick = larger;
+        parentDiv.appendChild(newDiv);
+        newDiv.appendChild(newImg);
         // Create a new div element for img title
         var newTtl = document.createElement("div");
         newTtl.className = "image-title";
@@ -538,6 +510,7 @@ Y8888P'  `Y88P'  Y8888D'    YP
       <!-- Right Menu container -->
     </div>
 
+
     <div id="defaultFrame" class="default-frame">
       <div class="top-bar">
         <div
@@ -560,9 +533,6 @@ Y8888P'  `Y88P'  Y8888D'    YP
       <div id="dash" class="dashboard">
         <!-- Images container -->
       </div>
-      
-     
-     </div>
     </div>
   </body>
 </html>
