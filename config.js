@@ -56,8 +56,12 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-  ["", "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/13/GOES16-CONUS-13-625x375.gif",],
-
+    [
+    "",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/GOES16-CONUS-GEOCOLOR-625x375.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/Sandwich/GOES16-CONUS-Sandwich-625x375.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/DayNightCloudMicroCombo/GOES16-CONUS-DayNightCloudMicroCombo-625x375.gif",
+  ],
   [
   "",
   "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/smv/EXTENT3/GOES16-SMV-EXTENT3-600x600.gif",
