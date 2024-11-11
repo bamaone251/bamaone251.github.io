@@ -85,7 +85,7 @@ const aIMG = [
 
  
 
-["", "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/13/GOES16-CONUS-13-625x375.gif",
+["", 
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/01/2500x1500.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/02/2500x1500.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/05/2500x1500.jpg",
