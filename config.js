@@ -90,7 +90,19 @@ const aIMG = [
 
   [
     "",
-    "https://www.ssd.noaa.gov/PS/TROP/floaters/18L/imagery/rb_lalo-animated.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/01/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/02/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/03/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/04/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/05/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/06/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/07/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/08/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/09/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/10/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/11/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/12/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/13/1200x1200.jpg",
   ],
 
 
