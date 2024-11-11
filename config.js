@@ -8,7 +8,7 @@ const aURL = [
   ["add10d", "BACK", "#", "1", "R"],
   ["ff9100", "Refresh", "#", "1"],
 
-  ["2196F3", "WINDY", "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=default&metricWind=default&zoom=5&overlay=wind&product=ecmwf&level=surface&lat=30.501&lon=-87.879"],
+  ["2196F3", "WINDY", "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=default&metricWind=default&zoom=5&overlay=wind&product=ecmwf&level=surface&lat=30.501&lon=-87.879",],
   [
     "2196F3",
     "PLANES",
@@ -36,7 +36,7 @@ const aURL = [
   [
     "2196F3",
     "WEATHER",
-    "https://spaghettimodels.com/",
+    "https://bamaone251.git.io",
     "1",
     "R",
   ],
