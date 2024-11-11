@@ -85,8 +85,20 @@ const aIMG = [
 
  
 
-  ["", "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/DayNightCloudMicroCombo/GOES16-CONUS-DayNightCloudMicroCombo-625x375.gif",],
-
+["", "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/13/GOES16-CONUS-13-625x375.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/01/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/02/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/05/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/06/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/07/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/08/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/09/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/10/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/11/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/12/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/13/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/14/2500x1500.jpg",
+  ],
 
   [
     "",
