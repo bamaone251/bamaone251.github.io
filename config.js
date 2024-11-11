@@ -102,7 +102,7 @@ const aIMG = [
 
   [
     "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/GEOCOLOR/GOES16-SMV-GEOCOLOR-600x600.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/13/1200x1200.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/01/1200x1200.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/02/1200x1200.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/03/1200x1200.jpg",
@@ -115,7 +115,7 @@ const aIMG = [
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/10/1200x1200.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/11/1200x1200.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/12/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/13/1200x1200.jpg",
+    
   ],
 
 
