@@ -104,10 +104,7 @@ const aIMG = [
 
   [
     "",
-    "https://www.ssd.noaa.gov/PS/TROP/floaters/18L/imagery/wv-animated.gif",
-    "https://www.ssd.noaa.gov/PS/TROP/floaters/18L/imagery/rb-animated.gif",
-    "https://www.ssd.noaa.gov/PS/TROP/floaters/18L/imagery/ir-animated.gif",
-    "https://www.ssd.noaa.gov/PS/TROP/floaters/18L/imagery/swir-animated.gif",
+    "https://radar.weather.gov/ridge/standard/SOUTHMISSVLY_loop.gif",
   ],
 
 
