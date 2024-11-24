@@ -36,7 +36,7 @@ const aURL = [
   [
     "2196F3",
     "WEATHER",
-    "https://bamaone251.git.io",
+    "https://bamaone251.github.io/LAWX/",
     "1",
     "R",
   ],
