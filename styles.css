@@ -1,0 +1,161 @@
+body {
+    display: inside;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    gap: 0;
+    background-color: #6d2727;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1px;
+    max-width: 100%;
+    width: 100%;
+    height: 49vh;
+}
+
+.container8 {
+    display: flex;
+    grid-gap: 1px;
+    max-width: 100%;
+    width: 100%;
+    height: 25vh;
+}
+
+.sunset {
+    background-color: beige;
+    width: 30%;
+}
+
+.container3 {
+    display: grid;
+    grid-template-columns: repeat(3, 600px);
+    grid-gap: 1px;
+    width: 50%;
+    height: 49vh;
+    align-items: top;
+}
+
+.video-placeholder3 {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 1px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.video-placeholder iframe3 {
+    width: 50%;
+    height: 49vh;
+}
+
+.video-placeholder {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 1px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.video-placeholder img {
+    width: 100%;
+    height: 400px;    
+}
+.video-placeholder iframe {
+    width: 100%;
+    height: 49vh;
+}
+
+
+.video-placeholder3 iframe {
+    width: 100%;
+    height: 49vh;
+}
+.placeholder {
+    background-color: #644545;
+    border: 1px solid #ddd;
+    padding: 1px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.placeholder iframe {
+    width: 100%;
+    height: 49vh;
+}
+
+.placeholder3 iframe {
+    width: 100%;
+    height: 200px;
+}
+.placeholder img {
+    width: 100%;
+    height: 200px;
+}
+
+.iframe-container {
+    width: 100%;
+    height: 35vh;
+    object-fit: fill;
+}
+
+.tides {
+    display: flex;
+    flex-wrap:nowrap ;
+    align-items: center;
+    justify-content: space-evenly;
+    object-fit:contain
+    gap: 0;
+}
+
+.youtubevid {
+    display: flex;
+    flex-direction: row ;
+    width: 100%;
+    object-fit: cover;
+
+}
+
+.bamaonewx {
+    display: flex;
+    object-fit: fill;
+    width: 100%;
+    height: 60vh;
+
+}
+
+.grid-item {
+    display: block;
+}
+
+.forecast {
+    justify-content: right;
+    object-fit:cover;
+    align-items: center;
+    
+    
+}
+
+.openweathermap-widget-11 {
+    width: 70;
+    
+}
+
+.openweathermap-widget-11.container {
+    width: 70;
+}
+
+#openweathermap-widget-11 {
+    width: 70;
+    
+}
+
+#openweathermap-widget-11.container {
+    width: 70;
+}
+
+
+.h1 {
+    height: 1%;
+}
+
