@@ -73,12 +73,19 @@ const aIMG = [
     "https://radar.weather.gov/ridge/standard/SOUTHMISSVLY_loop.gif",
     "https://radar.weather.gov/ridge/standard/CONUS-LARGE_loop.gif",
     "https://radar.weather.gov/ridge/standard/KMOB_loop.gif",
+    "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
+    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",  
   ],
 
   [
     "",
-    "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",  
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/Sandwich/GOES16-EUS-Sandwich-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/GEOCOLOR/GOES16-EUS-GEOCOLOR-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/AirMass/GOES16-EUS-AirMass-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/DayNightCloudMicroCombo/GOES16-EUS-DayNightCloudMicroCombo-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/13/GOES16-EUS-13-1000x1000.gif",
+
+    
   ],
 
 
