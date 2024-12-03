@@ -18,7 +18,7 @@ const aURL = [
   [
     "2196F3",
     "RADAR",
-    "https://thurlowpa.com/FullScreenRadarStuartZoom7Statewide.html",
+    "radar.html",
     "1",
   ],
   ["2196F3", "CAMS", "https://bamaone251.github.io/LOCALWX/", "1", "R"],
