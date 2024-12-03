@@ -67,6 +67,8 @@ const aIMG = [
   [
     "",
     "https://radar.weather.gov/ridge/standard/SOUTHMISSVLY_loop.gif",
+    "https://radar.weather.gov/ridge/standard/CONUS-LARGE_loop.gif",
+    "https://radar.weather.gov/ridge/standard/KMOB_loop.gif",
   ],
 
   [
