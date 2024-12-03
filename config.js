@@ -36,7 +36,7 @@ const aURL = [
   [
     "2196F3",
     "WEATHER",
-    "https://digital.weather.gov/?zoom=4&lat=37.00001&lon=-96.50001&layers=F000BTTTFFTT&region=0&element=0&mxmz=true&barbs=false&subl=TFFFFF&units=english&wunits=nautical&coords=latlon&tunits=localt",
+    "https://digital.weather.gov/?zoom=5&lat=38.02828&lon=-91.9297&layers=F000BTTTTFTT&region=0&element=6&mxmz=true&barbs=true&subl=TFFFFF&units=english&wunits=nautical&coords=latlon&tunits=localt",
     "1",
     "R",
   ],
