@@ -125,16 +125,30 @@ const aIMG = [
 
   [
     "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/GM/Sandwich/GOES16-GM-Sandwich-1000x1000.gif", 
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/DayNightCloudMicroCombo/GOES16-GM-DayNightCloudMicroCombo-1000x1000.gif",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/GEOCOLOR/GOES16-GM-GEOCOLOR-1000x1000.gif",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/13/GOES16-GM-13-1000x1000.gif",
-  ],
+   
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/Sandwich/GOES16-GM-Sandwich-1000x1000.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/GEOCOLOR/GOES16-GM-GEOCOLOR-1000x1000.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/AirMass/GOES16-GM-AirMass-1000x1000.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/DayNightCloudMicroCombo/GOES16-GM-DayNightCloudMicroCombo-1000x1000.gif",
+
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/13/GOES16-GM-13-1000x1000.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/08/GOES16-GM-08-1000x1000.gif",
+],
 
 
 
 
-  ["TROPICS", "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/taw/EXTENT3/GOES16-TAW-EXTENT3-900x540.gif"],
+  [
+  "TROPICS", 
+    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/taw/EXTENT3/GOES16-TAW-EXTENT3-900x540.gif",
+  "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/cam/Sandwich/GOES16-CAM-Sandwich-1000x1000.gif",
+  "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/cam/GEOCOLOR/GOES16-CAM-GEOCOLOR-1000x1000.gif",
+  "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/cam/AirMass/GOES16-CAM-AirMass-1000x1000.gif",
+  "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/cam/DayNightCloudMicroCombo/GOES16-CAM-DayNightCloudMicroCombo-1000x1000.gif",
+  "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/cam/13/GOES16-CAM-13-1000x1000.gif",
+  "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/cam/08/GOES16-CAM-08-1000x1000.gif",
+
+],
 
 
   [
