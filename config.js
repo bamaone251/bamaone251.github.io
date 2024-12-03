@@ -83,6 +83,9 @@ const aIMG = [
  
 
 ["", 
+     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/09/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/10/2500x1500.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/11/2500x1500.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/01/2500x1500.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/02/2500x1500.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/05/2500x1500.jpg",
@@ -99,6 +102,10 @@ const aIMG = [
 
   [
     "",
+    
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/06/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/07/1200x1200.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/08/1200x1200.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/13/1200x1200.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/01/1200x1200.jpg",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/02/1200x1200.jpg",
