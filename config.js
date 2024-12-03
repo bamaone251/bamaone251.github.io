@@ -146,17 +146,6 @@ const aIMG = [
     "https://www.wpc.ncep.noaa.gov/noaa/noaad3.gif",
   ],
 
-  ["FAIRHOPE", "https://www.youtube.com/embed/N5wWOVOTHmQ"],
 
-
-  ["BEACH", "https://www.youtube.com/embed/pJqrjIuvGFE"],
-
-    
-  [
-    "ISS & RS-44 POSITION",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
-    
-  ],
 
 ];
