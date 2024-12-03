@@ -88,45 +88,28 @@ const aIMG = [
 
  
 
-["", 
-     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/09/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/10/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/11/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/01/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/02/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/05/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/06/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/07/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/08/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/09/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/10/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/11/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/12/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/13/2500x1500.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/14/2500x1500.jpg",
-  ],
+[
+"",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/Sandwich/GOES16-SP-Sandwich-600x600.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/GEOCOLOR/GOES16-SP-GEOCOLOR-600x600.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/AirMass/GOES16-SP-AirMass-600x600.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/13/GOES16-SP-13-600x600.gif",
+],
+
 
   [
     "",
     
     
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/07/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/08/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/13/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/01/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/02/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/03/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/04/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/05/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/06/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/07/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/08/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/09/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/10/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/11/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/12/1200x1200.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/06/1200x1200.jpg",
-  ],
+   "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/GEOCOLOR/2000x2000.jpg",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/GM/Sandwich/GOES16-GM-Sandwich-1000x1000.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/GEOCOLOR/GOES16-GM-GEOCOLOR-1000x1000.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/AirMass/GOES16-GM-AirMass-1000x1000.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/DayNightCloudMicroCombo/GOES16-GM-DayNightCloudMicroCombo-1000x1000.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/FireTemperature/GOES16-GM-FireTemperature-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/08/GOES16-GM-09-1000x1000.gif",
+],
+
 
 
   [
