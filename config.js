@@ -127,7 +127,7 @@ const aIMG = [
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/AirMass/GOES16-EUS-AirMass-1000x1000.gif",
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/DayNightCloudMicroCombo/GOES16-EUS-DayNightCloudMicroCombo-1000x1000.gif",
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/13/GOES16-EUS-13-1000x1000.gif",
-]
+],
 
 
 
