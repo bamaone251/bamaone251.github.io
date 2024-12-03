@@ -64,24 +64,21 @@ const aIMG = [
   ],
 
   
-
+  [
+    "",
+    "https://radar.weather.gov/ridge/standard/SOUTHMISSVLY_loop.gif",
+  ],
 
   [
-    "WARNINGS",
+    "",
     "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
-  ],
-
-  [
-    "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
+    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",  
   ],
 
 
-  [
-    "THE SUN",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/SUVI/FD/He303/latest.jpg",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/SUVI/FD/Fe171/latest.jpg",
-  ],
+
+
+
 
  
 
@@ -127,16 +124,17 @@ const aIMG = [
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/13/GOES16-GM-13-1000x1000.gif",
   ],
 
-  [
-    "",
-    "https://radar.weather.gov/ridge/standard/SOUTHMISSVLY_loop.gif",
-  ],
+
 
 
   ["TROPICS", "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/taw/EXTENT3/GOES16-TAW-EXTENT3-900x540.gif"],
 
 
-
+  [
+    "THE SUN",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/SUVI/FD/He303/latest.jpg",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/SUVI/FD/Fe171/latest.jpg",
+  ],
 
 
 
