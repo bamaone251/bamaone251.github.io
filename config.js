@@ -153,6 +153,15 @@ const aIMG = [
     "https://www.wpc.ncep.noaa.gov/noaa/noaad3.gif",
   ],
 
+    [
+    "FORECAST", 
+    <iframe width="32.8%" height="220vh" src="https://www.youtube.com/embed/pJqrjIuvGFE" frameborder="0" allowfullscreen></iframe>
+        
+        <iframe width="32.8%" height="220vh" src="https://www.youtube.com/embed/N5wWOVOTHmQ" frameborder="0" allowfullscreen></iframe>
+        
+        <iframe width="32.8%" height="220vh" src="https://webcams.windy.com/webcams/stream/1647127872"  frameborder="0" ></iframe>
+   
+  ],
 
 
 ];
