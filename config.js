@@ -36,7 +36,7 @@ const aURL = [
   [
     "2196F3",
     "WEATHER",
-    "https://bamaone251.github.io/LAWX/",
+    "https://digital.weather.gov/?zoom=4&lat=37.00001&lon=-96.50001&layers=F000BTTTFFTT&region=0&element=0&mxmz=true&barbs=false&subl=TFFFFF&units=english&wunits=nautical&coords=latlon&tunits=localt",
     "1",
     "R",
   ],
@@ -66,6 +66,7 @@ const aIMG = [
   
   [
     "",
+    "https://www.weather.gov/images//mob/graphicast/image21.png"
     "https://radar.weather.gov/ridge/standard/SOUTHMISSVLY_loop.gif",
     "https://radar.weather.gov/ridge/standard/CONUS-LARGE_loop.gif",
     "https://radar.weather.gov/ridge/standard/KMOB_loop.gif",
@@ -167,6 +168,7 @@ const aIMG = [
     "FORECAST", 
     "https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif",
     "https://www.wpc.ncep.noaa.gov/noaa/noaad3.gif",
+    "https://www.wpc.ncep.noaa.gov/sfc/ussatsfc.gif",
   ],
 
 
