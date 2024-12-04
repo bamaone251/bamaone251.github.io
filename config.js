@@ -90,16 +90,23 @@ const aIMG = [
 ],
 
   
-[
-"",
-"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/Sandwich/GOES16-SP-Sandwich-600x600.gif",
-"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/GEOCOLOR/GOES16-SP-GEOCOLOR-600x600.gif",
-"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/AirMass/GOES16-SP-AirMass-600x600.gif",
-"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/13/GOES16-SP-13-600x600.gif",
-],
 
 
   
+
+
+
+
+  [
+    "",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/Sandwich/GOES16-EUS-Sandwich-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/GEOCOLOR/GOES16-EUS-GEOCOLOR-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/AirMass/GOES16-EUS-AirMass-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/DayNightCloudMicroCombo/GOES16-EUS-DayNightCloudMicroCombo-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/13/GOES16-EUS-13-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/09/2000x2000.jpg",
+    
+  ],
   [
     "",
     "https://radar.weather.gov/ridge/standard/SOUTHMISSVLY_loop.gif",
@@ -108,7 +115,14 @@ const aIMG = [
     "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
     "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",  
   ],
-
+  
+  [
+"",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/Sandwich/GOES16-SP-Sandwich-600x600.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/GEOCOLOR/GOES16-SP-GEOCOLOR-600x600.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/AirMass/GOES16-SP-AirMass-600x600.gif",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/13/GOES16-SP-13-600x600.gif",
+],
   [
     "",
    
@@ -122,16 +136,7 @@ const aIMG = [
 ],
 
 
- [
-    "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/Sandwich/GOES16-EUS-Sandwich-1000x1000.gif",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/GEOCOLOR/GOES16-EUS-GEOCOLOR-1000x1000.gif",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/AirMass/GOES16-EUS-AirMass-1000x1000.gif",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/DayNightCloudMicroCombo/GOES16-EUS-DayNightCloudMicroCombo-1000x1000.gif",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/13/GOES16-EUS-13-1000x1000.gif",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/09/2000x2000.jpg",
-    
-  ],
+ 
 
   [
   "TROPICS", 
