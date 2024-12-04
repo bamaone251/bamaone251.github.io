@@ -30,13 +30,13 @@ const aURL = [
     "R",
   ],
 
-  ["2196F3", "WATER VAPOR", "https://cw3e.ucsd.edu/ivt_iwv_namerica/", '1'],
+  ["2196F3", "WEATHER","https://digital.weather.gov/?zoom=5&lat=38.02828&lon=-91.9297&layers=F000BTTTTFTT&region=0&element=6&mxmz=true&barbs=true&subl=TFFFFF&units=english&wunits=nautical&coords=latlon&tunits=localt", '1'],
 
   ["2196F3", "CURRENTS", "https://earth.nullschool.net/#current/ocean/surface/currents/orthographic=-71.31,25.84,793/loc=-68.845,31.7940", "1", "R"],
   [
     "2196F3",
     "WEATHER",
-    "https://digital.weather.gov/?zoom=5&lat=38.02828&lon=-91.9297&layers=F000BTTTTFTT&region=0&element=6&mxmz=true&barbs=true&subl=TFFFFF&units=english&wunits=nautical&coords=latlon&tunits=localt",
+    "https://www.vesselfinder.com/?p=USPGL001",
     "1",
     "R",
   ],
@@ -105,10 +105,8 @@ const aIMG = [
 
 
   [
-    "",
-    
-    
-   "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/GEOCOLOR/2000x2000.jpg",
+    "", 
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/GEOCOLOR/2000x2000.jpg",
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/GM/Sandwich/GOES16-GM-Sandwich-1000x1000.gif",
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/GEOCOLOR/GOES16-GM-GEOCOLOR-1000x1000.gif",
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/AirMass/GOES16-GM-AirMass-1000x1000.gif",
@@ -126,7 +124,7 @@ const aIMG = [
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/GEOCOLOR/GOES16-GM-GEOCOLOR-1000x1000.gif",
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/AirMass/GOES16-GM-AirMass-1000x1000.gif",
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/DayNightCloudMicroCombo/GOES16-GM-DayNightCloudMicroCombo-1000x1000.gif",
-
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/FireTemperature/GOES16-GM-FireTemperature-1000x1000.gif",
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/13/GOES16-GM-13-1000x1000.gif",
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/08/GOES16-GM-08-1000x1000.gif",
 ],
