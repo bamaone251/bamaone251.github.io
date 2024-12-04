@@ -67,15 +67,6 @@ const aIMG = [
 ],
 
 
-  
-  [
-    "",
-    "https://radar.weather.gov/ridge/standard/SOUTHMISSVLY_loop.gif",
-    "https://radar.weather.gov/ridge/standard/CONUS-LARGE_loop.gif",
-    "https://radar.weather.gov/ridge/standard/KMOB_loop.gif",
-    "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",  
-  ],
 
  
 
@@ -108,6 +99,15 @@ const aIMG = [
 ],
 
 
+  
+  [
+    "",
+    "https://radar.weather.gov/ridge/standard/SOUTHMISSVLY_loop.gif",
+    "https://radar.weather.gov/ridge/standard/CONUS-LARGE_loop.gif",
+    "https://radar.weather.gov/ridge/standard/KMOB_loop.gif",
+    "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
+    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",  
+  ],
 
   [
     "",
