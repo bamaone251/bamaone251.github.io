@@ -8,7 +8,7 @@ const aURL = [
   ["add10d", "BACK", "#", "1", "R"],
   ["ff9100", "Refresh", "#", "1"],
 
-  ["2196F3", "WINDY", "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=default&metricWind=default&zoom=8&overlay=wind&product=ecmwf&level=surface&lat=30.501&lon=-87.879",],
+  ["2196F3", "WINDY", "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=%C2%B0F&metricWind=default&zoom=5&overlay=radar&product=radar&level=surface&lat=31.062&lon=-90.956", "1"],
   [
     "2196F3",
     "PLANES",
@@ -21,7 +21,9 @@ const aURL = [
     "radar.html",
     "1",
   ],
-  ["2196F3", "CAMS", "https://bamaone251.github.io/LOCALWX/", "1", "R"],
+  
+  ["2196F3", "DX CLUSTER", "https://www.nnvl.noaa.gov/NESDIS/site/videos/GOES/USlamWV-sector.mp4?_ga=2.214018519.1525759656.1717948358-643504581.1714231811", "1", "R"],
+  
   [
     "2196F3",
     "LIGHTNING",
@@ -30,13 +32,17 @@ const aURL = [
     "R",
   ],
 
-  ["2196F3", "WEATHER","https://digital.weather.gov/?zoom=5&lat=38.02828&lon=-91.9297&layers=F000BTTTTFTT&region=0&element=6&mxmz=true&barbs=true&subl=TFFFFF&units=english&wunits=nautical&coords=latlon&tunits=localt", '1'],
+  ["2196F3", "WEATHER", "https://digital.weather.gov/?zoom=5&lat=38.02828&lon=-91.9297&layers=F000BTTTTFTT&region=0&element=6&mxmz=true&barbs=true&subl=TFFFFF&units=english&wunits=nautical&coords=latlon&tunits=localt", '1'],
 
+
+  
   ["2196F3", "CURRENTS", "https://earth.nullschool.net/#current/ocean/surface/currents/orthographic=-71.31,25.84,793/loc=-68.845,31.7940", "1", "R"],
+  
+  
   [
     "2196F3",
     "WEATHER",
-    "https://www.vesselfinder.com/?p=USPGL001",
+    "https://www.",
     "1",
     "R",
   ],
@@ -126,6 +132,5 @@ const aIMG = [
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/cam/08/GOES16-CAM-08-1000x1000.gif",
   ],
 
-  
 
 ];
