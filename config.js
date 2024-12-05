@@ -166,6 +166,16 @@ const aIMG = [
     "https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif",
     "https://www.wpc.ncep.noaa.gov/noaa/noaad3.gif",
     "https://www.weather.gov/images//mob/graphicast/image_full21.png",
+    "https://graphical.weather.gov/images/conus/T1_conus.png", 
+    "https://graphical.weather.gov/images/conus/WindSpd1_conus.png",
+    "https://graphical.weather.gov/images/conus/PoP121_conus.png",
+    "https://www.wpc.ncep.noaa.gov/sfc/namussfcwbg.gif",
+    "https://www.wpc.ncep.noaa.gov/sfc/ussatsfc.gif" ,
+    "https://www.wpc.ncep.noaa.gov/NationalForecastChart/staticmaps/noaad2.png",
+    "https://www.wpc.ncep.noaa.gov/basicwx/94fndfd.gif",
+    "https://www.wpc.ncep.noaa.gov/basicwx/96fndfd.gif",
+    "https://www.wpc.ncep.noaa.gov/medr/display/wpcwx+frontsf072.gif",
+        
   ],
 
 
