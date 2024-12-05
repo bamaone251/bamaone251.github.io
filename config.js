@@ -79,7 +79,7 @@ const aIMG = [
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/DayNightCloudMicroCombo/GOES16-GM-DayNightCloudMicroCombo-1000x1000.gif",
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/FireTemperature/GOES16-GM-FireTemperature-1000x1000.gif",
 "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/GEOCOLOR/GOES16-GM-GEOCOLOR-1000x1000.gif",
-,
+
 ],
 
       
